@@ -1,8 +1,9 @@
-use_frameworks!
-
+source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0'
 
 target 'CocoPod_Example' do
+pod 'AFNetworking', '~> 3.1.0'
+
   pod 'CocoPod', :path => '../'
 
   target 'CocoPod_Tests' do

@@ -1,0 +1,1 @@
+../../../../../CocoPod/Classes/AFNetworking/AFNetworking/AFSecurityPolicy.h

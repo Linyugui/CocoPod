@@ -1,0 +1,1 @@
+../../../../../CocoPod/Classes/AFNetworking/AFNetworking/AFURLResponseSerialization.h
